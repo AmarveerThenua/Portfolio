@@ -61,11 +61,11 @@ const Contact = () => {
               </a>
 
               <a
-                href="#"
+                href="https://www.linkedin.com/in/amarveer-thenua-55735233a/"
                 className="flex items-center gap-4 text-zinc-400 transition hover:text-white"
               >
                 <LinkedInIcon className="text-indigo-400" />
-                LinkedIn
+               
               </a>
             </div>
           </motion.div>

@@ -25,7 +25,7 @@ const Projects = () => {
       description:
         "A hotel, villa and flat booking web application with authentication and property management.",
       technologies: ["Node.js", "Express.js", "MongoDB", "EJS"],
-      github: "#",
+      github: "https://github.com/AmarveerThenua/wanderlust.git",
       live: "#",
     },
 

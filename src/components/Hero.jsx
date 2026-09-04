@@ -16,7 +16,7 @@ const Hero = () => {
       className="relative flex min-h-screen items-center overflow-hidden px-4 pt-20 sm:px-6"
     >
       {/* Background Glow */}
-      <div className="absolute left-1/2 top-1/4 -z-0 h-60 w-60 -translate-x-1/2 rounded-full bg-indigo-600/20 blur-[100px] sm:h-72 sm:w-72 sm:blur-[120px]" />
+      <div className="absolute left-1/2 top-1/4 z-0 h-60 w-60 -translate-x-1/2 rounded-full bg-indigo-600/20 blur-[100px] sm:h-72 sm:w-72 sm:blur-[120px]" />
 
       <div className="mx-auto grid w-full max-w-7xl items-center gap-10 lg:grid-cols-2 lg:gap-12">
 

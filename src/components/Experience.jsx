@@ -62,7 +62,7 @@ const Experience = () => {
             <div className="absolute -left-[41px] h-5 w-5 rounded-full border-4 border-zinc-950 bg-indigo-500" />
 
             <span className="text-sm font-medium text-indigo-400">
-              2025 - Present
+              2024 - Present
             </span>
 
             <h3 className="mt-2 text-2xl font-bold">
